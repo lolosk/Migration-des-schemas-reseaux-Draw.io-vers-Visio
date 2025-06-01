@@ -1,6 +1,6 @@
 # Migration des schémas réseaux Draw.io vers Visio
 
-Ce dépôt documente un projet réalisé durant mon stage de 2e année au sein de la Maison de région de Nancy pour les lycées de la région Grand Est. Il vise à migrer les anciens schémas réseaux conçus avec Draw.io vers Microsoft Visio, dans un souci d'harmonisation, de compatibilité professionnelle et de mise à jour des standards apporté par la documentation 'CLARA' pour la conformitée E4.
+Ce dépôt documente un projet réalisé durant mon stage de 2e année au sein de la Maison de région de Nancy pour les lycées de la région Grand Est. Il vise à migrer les anciens schémas réseaux conçus avec Draw.io vers Microsoft Visio, dans un souci d'harmonisation, de compatibilité professionnelle et de mise à jour des standards apporté par la documentation 'CARLA' pour la conformitée E4.
 
 ---
 
