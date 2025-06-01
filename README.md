@@ -48,7 +48,7 @@ Ce travail a été réalisé dans le cadre de mon stage pour le service informat
 
 - [x] Recensement des fichiers Draw.io
 - [x] Prise en main de Visio
-- [ ] Migration des 30+ schémas
+- [ ] Migration des 6 schémas restant
 - [ ] Rédaction d’un guide de migration
 - [ ] Validation par l’équipe réseau
 
