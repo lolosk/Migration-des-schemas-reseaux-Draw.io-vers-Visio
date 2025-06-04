@@ -27,6 +27,8 @@ Ce dépôt documente un projet réalisé durant mon stage de 2e année au sein d
 
 [![Avant / Après](./images/before.png)](./images/after.gif)
 
+[![Après](./images/after.gif)]
+
 ---
 
 ## 📁 Organisation
