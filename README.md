@@ -25,8 +25,9 @@ Ce dépôt documente un projet réalisé durant mon stage de 2e année au sein d
 
 ## 🖼️ Exemple avant/après
 
-[![Avant / Après](./images/before.png)](./images/after.gif)
-
+### Avant :
+[![Avant](./images/before.png)]
+### Après :
 [![Après](./images/after.gif)]
 
 ---
